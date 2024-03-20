@@ -14,9 +14,11 @@ public class calculadora {
          
          numero = teclado.nextInt();
          
-         System.out.println("Insira os valores de X e Y");
+         System.out.println("Insira o valore de X ");
          
          x = teclado.nextDouble();
+
+         System.out.println("Insira o valore de y ");
          
          y = teclado.nextDouble();
          
